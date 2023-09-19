@@ -1,0 +1,110 @@
+---
+# title: "Research"
+---
+<div align = "left" style="font-size: 20px"> **Climate Change** </div>
+<p align = "justify" style="font-size: 16px; line-height: 2; margin-bottom: 18px; list-style-type: none">
+<span style="list-style-type: none;"> 
+1. Global Economic Impacts of the Physical Climate Risks on Agriculture and Energy (Forthcoming) <br>
+[Working Paper: CAMA | Conference Paper: GTAP | Results Dashboard].
+</span><br>
+<span style="list-style-type: none;"> 
+2. Global Economic Impacts of Physical Climate Risks (2023) <br>
+(co-authored with Caterina Lepore)
+[Working Paper: [IMF](https://www.imf.org/en/Publications/WP/Issues/2023/09/08/Global-Economic-Impacts-of-Physical-Climate-Risks-538947) | Results Dashboard].
+</span><br>
+<span style="list-style-type: none;"> 
+3. Why Climate Scenarios are Important, How to Use Them, and What has been Learned (2022) <br>
+(co-authored with Warwick McKibbin and Weifeng Liu)
+[Policy Brief: [Brookings](https://www.brookings.edu/research/why-climate-policy-scenarios-are-important-how-to-use-them-and-what-has-been-learned/)].
+</span><br>
+<span style="list-style-type: none;"> 
+4. Running the NGFS Scenarios in G-Cubed: a Tale of Two Modeling Frameworks (2022) <br>
+(co-authored with Warwick McKibbin et al.)
+[Occasional Paper: [NGFS](https://www.ngfs.net/sites/default/files/medias/documents/running_the_ngfs_scenarios_in_g-cubed_a_tale_of_two_modelling_frameworks.pdf) | [Results Dashboard](https://cama.crawford.anu.edu.au/cama-publications/g-cubed-modelling-results-ngfs-climate-scenarios)].
+</span><br>
+<span style="list-style-type: none;"> 
+5. Global Economic Impacts of Climate Shocks, Climate Policy, and Changes in Climate Risk Assessment (2021) <br>
+(co-authored with Warwick McKibbin and Weifeng Liu)
+[Working Paper: [Brookings](https://www.brookings.edu/research/global-economic-impacts-of-climate-shocks-climate-policy-and-changes-in-climate-risk-assessment/) | 
+[CEPR](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16154) |
+[CAMA](https://cama.crawford.anu.edu.au/publication/cama-working-paper-series/18671/global-economic-impacts-climate-shocks-climate-policy) |
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3817111)].
+</span><br>
+<span style="list-style-type: none;"> 
+6. Averting a Tragedy of Solar Commons: When Free may not be the Best (2021) <br>
+(co-authored with Alexandra Sidorenko)
+[Policy Brief: [Australian Energy Market Commission](https://www.aemc.gov.au/sites/default/files/documents/alexandra_sidorenko_and_roshen_fernando.pdf)].
+</span><br>
+</p>
+
+<div align = "left" style="font-size: 20px"> **COVID-19** </div>
+<p align = "justify" style="font-size: 16px; line-height: 2; margin-bottom: 18px; list-style-type: none">
+<span style="list-style-type: none;"> 
+1. Macroeconomic Policy Adjustments due to COVID-19: Scenarios to 2025 with a Focus on Asia (2021) <br>
+(co-authored with Warwick McKibbin)
+[Book Chapter: [ADBI](https://www.adb.org/sites/default/files/publication/739596/covid-19-impacts-and-policy-options-web.pdf) |
+Working Paper: [ADBI](https://www.adb.org/sites/default/files/publication/684551/adbi-wp1219.pdf) |
+[CAMA](https://cama.crawford.anu.edu.au/publication/cama-working-paper-series/18369/macroeconomic-policy-adjustments-due-covid-19-scenarios) |
+[Results Dashboard](https://cama.crawford.anu.edu.au/cama-publications/asian-development-bank-institute-modelling-results-dashboard)].
+</span><br>
+<span style="list-style-type: none;"> 
+2. Global Macroeconomic Scenarios of the COVID-19 Pandemic (2021) <br>
+[Journal Article: Economic Modeling (Under Review) | 
+Working Paper: [Brookings](https://www.brookings.edu/research/global-macroeconomic-scenarios-of-the-covid-19-pandemic/) | [CEPR](https://cepr.org/file/9394/download?token=V5WFWAve) | 
+[CAMA](https://cama.crawford.anu.edu.au/publication/cama-working-paper-series/17010/global-macroeconomic-scenarios-covid-19-pandemic) | 
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3635103) | <br>
+[Results Dashboard](https://cama.crawford.anu.edu.au/covid-19-macroeconomic-modelling-results-dashboard)].
+</span><br>
+<span style="list-style-type: none;"> 
+3. Global Macroeconomic Impacts of COVID-19: Seven Scenarios (2021) <br>
+(co-authored with Warwick McKibbin)
+[Journal Article: [Asian Economic Papers](https://direct.mit.edu/asep/article/doi/10.1162/asep_a_00796/97314/The-Global-Macroeconomic-Impacts-of-COVID-19-Seven) | <br>
+Working Paper: [Brookings](https://www.brookings.edu/research/the-global-macroeconomic-impacts-of-covid-19-seven-scenarios/) | [CEPR](https://cepr.org/file/10494/download?token=HYTOt3q1) | 
+[CAMA](https://cama.crawford.anu.edu.au/publication/cama-working-paper-series/16221/global-macroeconomic-impacts-covid-19-seven-scenarios) | 
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3547729)].
+</span><br>
+<span style="list-style-type: none;"> 
+4. The Economic Impact of COVID-19 (2020) <br>
+(co-authored with Warwick McKibbin)
+[Book Chapter: [CEPR](https://cepr.org/sites/default/files/news/COVID-19.pdf)].
+</span><br>
+</p>
+
+<div align = "left" style="font-size: 20px"> **Antimicrobial Resistance** </div>
+<p align = "justify" style="font-size: 16px; line-height: 2; margin-bottom: 18px; list-style-type: none">
+<span style="list-style-type: none;"> 
+1. Global Economic Impact of Antimicrobial Resistance (Forthcoming) <br>
+(co-authored with Warwick McKibbin)
+[Working Paper: CAMA | Results Dashboard].
+</span><br>
+<span style="list-style-type: none;"> 
+2. Impact of Physical Climate Risks on Antimicrobial Resistance (Under Review) <br>
+[Working Paper: CAMA | Results Dashboard].
+</span><br>
+<span style="list-style-type: none;"> 
+3. Impact of Demographic Trends on Antimicrobial Resistance (Under Review) <br>
+[Working Paper: CAMA | Results Dashboard].
+</span><br>
+<span style="list-style-type: none;"> 
+4. Antimicrobial Resistance: Designing a Comprehensive Macroeconomic Modeling Strategy (2022) <br>
+(co-authored with Warwick McKibbin)
+[Research Article: [Brookings](https://www.brookings.edu/research/antimicrobial-resistance-designing-a-comprehensive-macroeconomic-modeling-strategy/)].
+</span><br>
+</p>
+
+<div align = "left" style="font-size: 20px"> **Other Research** </div>
+<p align = "justify" style="font-size: 16px; line-height: 2; margin-bottom: 18px; list-style-type: none">
+<span style="list-style-type: none;"> 
+1. Managing Building Materials in a World of Rising Disasters (Forthcoming) <br>
+(co-authored with Missaka Hettiatachchi et al.)
+[Journal Article: One Earth].
+</span><br>
+2. Global Impact of the Loss of Confidence in Asian Emerging Markets (2020) <br>
+[Journal Article: [The World Economy](https://onlinelibrary.wiley.com/doi/full/10.1111/twec.12926)].
+</span><br>
+3. Price Elasticity of Demand for Pipe-borne Water: a Prerequisite for Solving the Water Problem in Colombo City (2020) <br>
+[Journal Article: [OUSL](https://ouslj.sljol.info/articles/abstract/10.4038/ouslj.v13i1.7399/)].
+</span><br>
+</p>
+
+<div style="text-align: center; margin-top: 20px;"> <p>&copy; 2023 Roshen Fernando</p> </div>

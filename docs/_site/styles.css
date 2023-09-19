@@ -1,0 +1,14 @@
+/* Set a Font */
+body {
+  font-family: "Century Schoolbook", serif;}
+
+/* Adjust the page width */
+.container {
+  max-width: 1000px; /* Adjust the width as needed */
+}
+
+/* Adjust the page margins */
+body {
+  margin-left: 0.001in;   /* Adjust the left margin as needed */
+  margin-right: 0.001in;  /* Adjust the right margin as needed */
+}

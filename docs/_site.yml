@@ -1,0 +1,21 @@
+name: "Roshen-Fernando"
+author: "Roshen Fernando"  
+output:  
+  html_document:
+    theme: flatly
+    self_contained: no  
+    toc: false
+    css: styles.css
+navbar:
+  title: "Roshen Fernando"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Policy Experience"
+      href: experience.html
+    - text: "Education"
+      href: education.html
+    - text: "Outreach"
+      href: outreach.html
