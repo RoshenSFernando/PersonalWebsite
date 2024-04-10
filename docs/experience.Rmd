@@ -25,4 +25,4 @@ Along with Prof. Warwick McKibbin and Dr. Weifeng Liu, from December 2021 to Mar
 From November 2021 to March 2022, I constructed a suite of models for nowcasting the Gross Domestic Product of Sri Lanka. The model ensemble includes both conventional nowcasting models as well as modern machine learning algorithms.
 </p>
 
-<div style="text-align: center; margin-top: 20px;"> <p>&copy; 2023 Roshen Fernando</p> </div>
+<div style="text-align: center; margin-top: 20px;"> <p>&copy; 2024 Roshen Fernando</p> </div>
