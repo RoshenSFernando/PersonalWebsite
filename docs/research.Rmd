@@ -112,7 +112,7 @@ Book Chapter:
 (co-authored with Warwick McKibbin) <br>
 Working Paper: 
 The Peterson Institute for International Economics | 
-CEPR | 
+[CEPR] (https://cepr.org/publications/dp19138) | 
 [CAMA](https://cama.crawford.anu.edu.au/publication/cama-working-paper-series/22234/global-economic-impacts-antimicrobial-resistance) | 
 [ARC CEPAR](https://www.cepar.edu.au/publications/working-papers/global-economic-impacts-antimicrobial-resistance) || <br>
 [Results Dashboard](https://roshenfernando.shinyapps.io/GlobalEconomicImpactsAMR/)
@@ -154,4 +154,4 @@ Journal Article: [OUSL](https://ouslj.sljol.info/articles/abstract/10.4038/ouslj
 </span><br>
 </p>
 
-<div style="text-align: center; margin-top: 20px;"> <p>&copy; 2024 Roshen Fernando</p> </div>
+<div style="text-align: center; margin-top: 20px;"> <p>&copy; 2025 Roshen Fernando</p> </div>
